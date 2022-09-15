@@ -4,7 +4,7 @@
  * @void: no argument
  * Return: 0 Success
  */
-int main(voidd)
+int main(void)
 {
 	int i;
 
@@ -28,4 +28,4 @@ int main(voidd)
 	printf("Buzz");
 	printf("\n");
 	return (0);
-}			
+}		
