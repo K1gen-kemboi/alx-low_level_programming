@@ -28,5 +28,4 @@ int main(voidd)
 	printf("Buzz");
 	printf("\n");
 	return (0);
-}
-			
+}			
